@@ -18,7 +18,6 @@ This **Quiz Application** is built with **FastAPI** and consists of three versio
 - **MySQL**: A relational database for storing quiz data.
 - **SQLAlchemy**: ORM for handling database operations.
 - **Pydantic**: Data validation and serialization.
-- **Alembic**: Database migration tool for SQLAlchemy.
 - **JWT (JSON Web Tokens)**: For user authentication and session management.
 
 ## Prerequisites
